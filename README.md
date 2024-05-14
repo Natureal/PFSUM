@@ -4,8 +4,8 @@ All algorithms including SUM, SUM_w, FSUM, PFSUM, and PLDA were implemented in a
 To reproduce the experiment, run experiment.ipynb with Jupyter Notebook. The generated figures will be stored in folder figs.
 
 ## Running Examples
-![](run_case1.png)
-![](run_case2.png)
+![](run_case1)
+![](run_case2)
 
 ## Requirements
 
