@@ -1,7 +1,9 @@
 ## Introduction
 All algorithms including SUM, SUM_w, FSUM, PFSUM, and PLDA were implemented in algorithms.py.
 
-To reproduce the experiment, run experiment.ipynb with Jupyter Notebook. The generated figures will be stored in folder figs.
+To reproduce the experiment, run experiment.ipynb with Jupyter Notebook. 
+
+The generated figures will be stored in folder figs.
 
 ## Running Examples
 ![](run_case1)
